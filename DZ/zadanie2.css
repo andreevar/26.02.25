@@ -1,7 +1,6 @@
 
 .card{
     display: flex;
-    border: 1px rgb(26, 26, 21) solid;
 }
 
 .center{
@@ -19,4 +18,9 @@
 .desc1{
     display: flex;
     justify-content: flex-end;
+}
+
+.desc3{
+    display: flex;
+    justify-content: flex-start;
 }
