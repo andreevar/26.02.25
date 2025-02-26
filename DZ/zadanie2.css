@@ -1,0 +1,22 @@
+
+.card{
+    display: flex;
+    border: 1px rgb(26, 26, 21) solid;
+}
+
+.center{
+    justify-content: flex-end;
+}
+
+.around{
+    justify-content: space-around;
+}
+
+.desc2{
+    display: flex;
+    justify-content: center;
+}
+.desc1{
+    display: flex;
+    justify-content: flex-end;
+}

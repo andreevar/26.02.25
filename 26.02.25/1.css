@@ -1,0 +1,30 @@
+.flex-conteiner{
+    display: flex;
+    border: solid 0.25em black;
+    width: 60%;
+    height: 8.25em;
+    flex-wrap: wrap-reverse; /*располагает элементы в обратном порядке */
+    
+}
+
+.row{
+    flex-direction: row;
+}
+
+.row-reverse{
+    flex-direction: row-reverse;
+}
+
+.flex-item{
+    text-align: center;
+    font-size: 1em;
+    padding: 1.5em;
+    color: black;
+    opacity: 0.8;
+}
+
+.color1{background-color: rgb(167, 115, 47);}
+.color2{background-color: rgb(99, 61, 138);}
+.color3{background-color: rgb(121, 10, 111);}
+.color4{background-color: rgb(56, 145, 78);}
+.color5{background-color: rgb(180, 36, 36);}

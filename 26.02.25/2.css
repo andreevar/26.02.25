@@ -1,0 +1,32 @@
+.flex-conteiner{
+    display: flex;
+    border: 1px rgb(26, 26, 21) solid;
+}
+
+.flex-end{
+    justify-content: flex-end;
+}
+
+.center{
+    justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between ;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.flex-item {
+    text-align: center;
+    font-size: 1em;
+    padding: 1.5em;
+    color: aliceblue;
+}
+
+.color1{background-color: rgb(230, 162, 73);}
+.color2{background-color: rgb(99, 61, 138);}
+.color3{background-color: rgb(121, 10, 111);}
+.color4{background-color: rgb(56, 145, 78);}
